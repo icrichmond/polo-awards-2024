@@ -1,0 +1,37 @@
+---
+title: "INCREDIBLY SICK VIBES AWARD"
+author: "sponsored and vetted by Rad Polo Awards 2024"
+title-slide-attributes:
+  data-background-image: /imgs/chillin.jpeg
+  data-background-opacity: "0.55"
+format: 
+  revealjs:
+    theme: blood
+---
+
+##  {.center}
+
+::: r-stack
+obviously rad polo as a whole has incredibly sick vibes ...
+:::
+
+::: r-stack
+HOWEVER
+:::
+
+::: r-stack
+today i will convince you that **SASHA** in fact has the MOST incredibly sick vibes
+:::
+
+![](imgs/gif.webp){fig-align="center"}
+
+## Argument 1: 
+
+## Argument 2: 
+
+## Argument 3: 
+
+## Argument 4: 
+
+## Congratulations 
+

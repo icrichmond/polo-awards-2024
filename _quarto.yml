@@ -1,0 +1,7 @@
+project:
+  title: "Rad Polo Awards 2024"
+  type: website
+  output-dir: docs
+
+
+from: markdown+emoji
