@@ -1,18 +1,21 @@
 ---
-title: "INCREDIBLY SICK VIBES AWARD"
-author: "sponsored and vetted by Rad Polo Awards 2024"
+title: "AMERICA'S SWEETHEART AWARD"
+author: 
+  - name: "sponsored and vetted by:"
+    email: "Miss America 2030 & Rad Polo Awards 2024"
 title-slide-attributes:
   data-background-image: /imgs/chillin.jpeg
   data-background-opacity: "0.55"
 format: 
   revealjs:
-    theme: blood
+    transition: convex
+    theme: sky
 ---
 
 ##  {.center}
 
 ::: r-stack
-obviously rad polo as a whole has incredibly sick vibes ...
+obviously rad polo is a collection of sweethearts ...
 :::
 
 ::: r-stack
@@ -20,18 +23,49 @@ HOWEVER
 :::
 
 ::: r-stack
-today i will convince you that **SASHA** in fact has the MOST incredibly sick vibes
+today i will convince why this year **SASHA** is our
+:::
+
+::: r-stack
+<w style = "color: #fabefa"> *biggest sweetheart* </w>
 :::
 
 ![](imgs/gif.webp){fig-align="center"}
 
-## Argument 1: 
+## Argument 1: courtside cheering
 
-## Argument 2: 
+Sasha is ALWAYS bringing the most positive, fun, upbeat courtside energy!!! No matter who you are, Sasha is happy to see you, cheering you on, and looking good doing it! 
 
-## Argument 3: 
+![](imgs/courtside.jpeg){fig-align="center"}
+
+## Argument 2: showing up !! 
+
+Feeling shy? Discouraged? Lonely? JOIN RAD POLO, so that you can have a friend that you know will show up, watch your pickup games, dress up for Halloween with you, and welcome you into a community (that friend is Sasha)
+
+![](imgs/victory.jpeg){fig-align="center"}
+
+
+## Argument 3: manners 
+
+All good sweethearts need manners, and Sasha always tells you he is going to kill you before he does!! How polite.
+
+![](imgs/playing.jpeg){fig-align="center"}
 
 ## Argument 4: 
 
-## Congratulations 
+## {.center background-image="imgs/award.jpeg"}
+
+::: r-stack
+
+<w style = "color: #e9ede7"> **CONGRATULATIONS SWEETHEART !!!!** </w>
+
+:::
+
+
+::: r-stack
+
+<w style = "color: #e9ede7"> polo is better because of you :) </w>
+
+:::
+
 
